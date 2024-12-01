@@ -1,0 +1,26 @@
+.event-section{
+    width: 90%;
+    /* background-color: #ffbaba; */
+    margin:1% auto;
+    /* margin: auto; */
+    /* margin-top: 10px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.event-sec-head{
+    color: rgb(138, 36, 255);
+    font-size: 1.5em;
+}
+.why-cybercell{
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 2%;
+    margin: 5%;
+}
+.why-cybercell-head{
+    text-align: center;
+    margin-bottom: 1em;
+}

@@ -9,6 +9,7 @@
   /* justify-content: center; */
   flex-direction: column;
   gap: 8px;
+  /* margin: 2%; */
 }
 
 .event-image {
